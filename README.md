@@ -1,5 +1,5 @@
 ## A Frontend Mentor challenge. (CSS)
-Project: 
+Project: Testimonials grid section
 
 ### Design Overview 🎨
-[![qr-code-component.png](https://i.postimg.cc/MpPYHgrv/qr-code-component.png)](https://postimg.cc/WdZZfYVv)
+[![Fire-Shot-Capture-048-Testimonials-Grid-Section-testimonials-grid-section-project-gold-vercel-app.png](https://i.postimg.cc/4Nj5CzPM/Fire-Shot-Capture-048-Testimonials-Grid-Section-testimonials-grid-section-project-gold-vercel-app.png)](https://postimg.cc/7fM70JpM)
